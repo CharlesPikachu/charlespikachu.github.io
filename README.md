@@ -1,4 +1,4 @@
 # Homepage
 ```sh
-Source code of my personal homepage.
+Source code of my personal homepage: https://charlespikachu.github.io/charles.github.io/
 ```
