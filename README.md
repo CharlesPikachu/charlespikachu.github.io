@@ -1,4 +1,4 @@
 # Homepage
 ```sh
-preparing
+Source code of my personal homepage.
 ```
